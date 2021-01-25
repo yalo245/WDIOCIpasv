@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8468428c-9bab-4bd4-b8b1-fb43d1e05b5c" name="Default Changelist" comment="refactor clearInput method to be available on all OS&#10;remove msedgedriver from dependencies and configuration">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8468428c-9bab-4bd4-b8b1-fb43d1e05b5c" name="Default Changelist" comment="refactor clearInput method to be available on all OS&#10;remove msedgedriver from dependencies and configuration" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,7 +148,7 @@
       <workItem from="1610676225842" duration="623000" />
       <workItem from="1610716123244" duration="3855000" />
       <workItem from="1610767471689" duration="1266000" />
-      <workItem from="1611518143036" duration="7539000" />
+      <workItem from="1611518143036" duration="7899000" />
     </task>
     <task id="LOCAL-00001" summary="refactor clearInput method to be available on all OS&#10;remove msedgedriver from dependencies and configuration">
       <created>1610394593595</created>
@@ -173,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611540053985</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="refactor clearInput method to be available on all OS&#10;remove msedgedriver from dependencies and configuration">
+      <created>1611540273359</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611540273359</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,8 +197,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="refactor clearInput method to be available on all OS&#10;remove msedgedriver from dependencies and configuration" />
     <MESSAGE value="update reports" />
-    <option name="LAST_COMMIT_MESSAGE" value="update reports" />
+    <MESSAGE value="refactor clearInput method to be available on all OS&#10;remove msedgedriver from dependencies and configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor clearInput method to be available on all OS&#10;remove msedgedriver from dependencies and configuration" />
   </component>
 </project>
