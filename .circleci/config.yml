@@ -33,7 +33,7 @@ jobs:
           command: |
             wget $(curl https://circleci.com/api/v1.1/project/github/yalo245/WDIOCIpasv/latest/artifacts?filter=successful -H "Circle-Token $CIRCLE_TOKEN" | grep -Eo '(http|https)://[a-zA-Z0-9./?=_%:-]*') -O allure-previous.zip
             test -f allure-previous.zip && unzip allure-previous.zip -d allure-previous
-            npm run test:chrome:headlessfilter=successful
+            npm run test:chrome:headless
             cp -r allure-previous/allure-report/history allure-results
             npm run report:generate
             zip -r allure-report.zip allure-report
