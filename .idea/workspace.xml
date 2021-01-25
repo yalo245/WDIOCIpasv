@@ -17,6 +17,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -111,11 +116,11 @@
     </configuration>
     <list>
       <item itemvalue="npm.report:open" />
+      <item itemvalue="npm.test:chrome:headless" />
       <item itemvalue="npm.report:generate" />
       <item itemvalue="npm.test:firefox" />
       <item itemvalue="npm.test:firefox:headless" />
       <item itemvalue="npm.test:chrome" />
-      <item itemvalue="npm.test:chrome:headless" />
     </list>
     <recent_temporary>
       <list>
@@ -127,6 +132,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8468428c-9bab-4bd4-b8b1-fb43d1e05b5c" name="Default Changelist" comment="" />
@@ -142,6 +150,7 @@
       <workItem from="1610676225842" duration="623000" />
       <workItem from="1610716123244" duration="3855000" />
       <workItem from="1610767471689" duration="1266000" />
+      <workItem from="1611518143036" duration="7539000" />
     </task>
     <task id="LOCAL-00001" summary="refactor clearInput method to be available on all OS&#10;remove msedgedriver from dependencies and configuration">
       <created>1610394593595</created>
@@ -150,7 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610394593595</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update reports">
+      <created>1611539089677</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611539089678</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update reports">
+      <created>1611540053985</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611540053985</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +193,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="refactor clearInput method to be available on all OS&#10;remove msedgedriver from dependencies and configuration" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor clearInput method to be available on all OS&#10;remove msedgedriver from dependencies and configuration" />
+    <MESSAGE value="update reports" />
+    <option name="LAST_COMMIT_MESSAGE" value="update reports" />
   </component>
 </project>
